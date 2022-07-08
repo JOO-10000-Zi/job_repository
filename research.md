@@ -5,23 +5,6 @@
 1. 프론트앤드
 
    ```프론트앤드
-   - 화해(화장품 성분 비교 SW)
-   	▷ 자격요건
-     	 • 프론트엔드 실무 경험 3년 이상
-   	 • Javascript에 대한 경험과 높은 이해
-   	 • React의 경험과 동작 원리에 대한 높은 이해
-   	 • 상태 관리 라이브러리 (redux, mobx 등)에 대한 경험과 높은 이해
-     	▷ 우대사항
-   	 • 기본적인 자료구조 및 알고리즘 이해가 있으신 분
-   	 • Next.js 및 typescript 실무 사용 경험이 있으신 분
-   	 • 성능 최적화 경험이 있으신 분
-   	 • 브라우저 렌더링에 대한 이해가 있으신 분
-   	 • 유연한 설계에 대한 고민을 하시는 분
-   	 • 단위/통합 테스트에 대한 경험이 있으신 분
-   	 • 더 나은 UX/UI에 대한 욕심이 있으신 분
-   	 • 코드리뷰를 즐기시는 분
-   	 • 동료와의 협업을 위해서 다양한 시도를 해보시는 분
-   	 
    - 메타지(가상공간 구상)
    	▷ 자격요건
    	 • Javascript (Typescript) 언어적 특성을 잘 알며 최적화에 능숙한 분이 필요합니다.
@@ -125,6 +108,109 @@
    	 • Microservice Architecture또는 DDD에 대한 이해가 있으신 분
    	 • Kubernetes 및 Docker를 사용/개발 해 본 경험이 있으신 분
    	 • 업무 자동화 도구 개발 경험이나 업무 생산성 향상 등에 관심이 많으신 분
+   ```
+
+   
+
+## 직장 거리 별 정리(1시간 내)
+
+1. 서울권
+
+   ```서울권
+   - 샌드박스네트워크(언터테인먼트 회사)
+   	▷ 주요업무
+   	 • Back-end 유지 보수
+   	 • 유튜브/트위치 등 데이터를 활용한 신규 서비스 개발
+   	▷ 자격요건
+   	 • 웹 서비스 아키텍처에 대한 전반적인 이해
+   	 • 데이터 베이스에 대한 이해
+   	 • Python 사용경험 필수
+   	 • 서비스 백엔드 서버 개발 및 운영 경험
+   	▷ 우대사항
+   	• AWS, GCP 등 Cloud 사용 경험
+   	 • Nodejs, Java 사용 경험
+   	 • 웹/앱 서비스 운영 경험
+   	 • 3년 이상 경력자 우대
+   	 • 포트폴리오, 소스코드, 프로젝트 관련 자료 첨부 시 우대 (PDF)
+   	 • 등록장애인 및 보훈대상자 우대
+   [공고 Rrl] : https://www.wanted.co.kr/wd/59294
+   
+   - 바이브컴퍼니(AI.빅데이터 전문 기업)
+   	▷ 주요업무
+   	 • 주가/재무 등 금융 데이터 분석 시스템 개발
+       	. 수익성/성장성/안정성 등 기업 펀더멘털 분석
+       	. 주가 차트 분석
+       	. 섹터 분석
+        • 뉴스, 공시, 테마 등 비정형 금융 데이터 분석 시스템 개발
+       	. 사업보고서 및 주요 공시 분석
+       	. 경제뉴스/종목뉴스 분석
+       	. 이슈 테마 분석
+   	▷ 자격요건
+   	 • 컴퓨터 과학/공학 혹은 유사학과 전공자
+   	 • python 고급 개발자
+   	▷ 우대사항
+   	 • 금융 back-end 분석 시스템 설계 및 개발 경험 10년 이상
+   	 • oracle, mariadb 등 데이터베이스 설계 및 개발 경험
+   	 • 머신러닝 관련 석사/박사 학위 소지자
+   [공고 Url] : https://www.wanted.co.kr/wd/102251
+   
+   - 
+   	▷ 주요업무
+   	▷ 자격요건
+   	▷ 우대사항
+   [공고 Url] : 
+   ```
+
+2. 경기, 인천 권
+
+   ```경기,인천
+   - 데이터하이브(AI챗봇 솔루션 개발 등)
+   	▷ 주요업무
+   	 • 물류 AI 챗볼 솔루션 개발
+   	▷ 자격요건
+   	 • 관련 전공의 신입개발자
+   	 • JAVA, PHP, Python 등 1개 이상의 프로그래밍 언어에 능숙
+   	 • 프로그램설계, 디버깅, 자료 구조 및 알고리즘에 대한 기본적인 이해도
+   	▷ 우대사항
+   	 • 대화시스템 / 챗봇 개발 경험
+   	 • 딥러닝 프레임워크 사용 경험
+   	 • Docker, CI/CD에 대한 경험 또는 관심
+   	 • 대용량 분산황경에서의 시스템 개발/운영 경험
+   	 • 모던 JS프레임웍 실무 개발(REact, Vue.is등)
+   [공고 Url] : https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43447685&recommend_ids=eJxNj7ERA0EIA6txLpA4IHYh7r8L8%2F%2FjO4ea1WpANC6Vf8rtlW%2FRIayJtu4oMxOH9kPTLeJQENETH1dp6thlhpfOsrW6bcq4ohtArlOWYLmnGKuSZ1li4ecS1cHaZzBDOHSulP25bkJt6lPPtV3PVHNHtAN%2BXPS8eNEvF%2FI%2FxQ%3D%3D&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0
+   
+   - (주)브이다임(메타머스 서비스)
+   	▷ 주요업무
+   	 • 메타버스 서비스 커뮤니티 서비스 연동 개발
+    	 • 메타버스 서비스 커머스 연동 모듈 개발
+    	 • 메타버스 서비스 NFT 연동 모듈 개발
+   	▷ 자격요건
+   	 • 경력 : 신입/경력 1년 ~ 5년(연구원, 주임연구원, 선임연구원급)
+    	 • Python, Node.js 등의 framework 사용 경험
+    	 • Git 버전 관리 사용 경험
+    	 • DBMS, Data Structure 설계 경험
+    	 • AWS, Google Cloud, MS Cloud 등 클라우드 개발환경에 관심이 있으신분
+   	▷ 우대사항
+   	 • 컴퓨터/시스템공학
+   	 • 영어가능자
+     	 • Unreal/Unity 엔진을 이용한 출시 및 서비스 경험자
+     	 • REST API 개발 경험자
+   [공고 Url] :https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43233776&recommend_ids=eJxNj8EVwzAIQ6fpHQlh4NxBsv8WdewXp8f%2FkJAkeKfTr2J%2F8iuXGRRXwTaGosfEdaVZZuUR%2BxgWdsRMIo4XKZWmGGO%2FSqjjDVIU4%2FnsHkHNGsCNlj5MOl4v5grCDiIyTxC7eiBPDcBt4RY7m38oMYwvcg58cXpxl3yuc26vVj88KD%2Fz&view_type=list&searchType=search&gz=1&t_ref_scnid=810&t_ref_content=SRI_050_ARA_MTRX_RCT&t_ref=area_recruit&inner_source=saramin&inner_medium=pattern&inner_campaign=SRI_050_ARA_MTRX_RCT&inner_term=5&paid_fl=n#seq=0
+   
+   - SIMPAC(프레스 기계 설비 IT직군)
+   	▷ 주요업무
+   	 • IT 기획 및 운영 관리
+   	 • IT 인프라 고도화 기획
+   	 • SAP ERP 구축지원 및 운영
+   	 • 기타 IT 관련 업무 전반
+   	▷ 자격요건
+   	 • 대졸 이상
+   	 • IT계열 전공자
+   	▷ 우대사항
+   	 • SAP 지식 및 경험 보유자
+   	 • IT 인프라 관련 자격증 보유자
+   	 • Cloud 서버 환경 구축 경험자
+   [공고 Url] : https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=43427416&recommend_ids=eJxFkMsRQzEIA6vJHYH4nVNI%2Bu8iPL%2BxfdxZGRloZEb5ryCf%2FNJoXRxUPKhdHcix8dpoVG5rZhnssS8SIzm2X6Sg6qC2p8cpArNN72Qd9BMGTFbvLnIT3iKKUc6o1XTDFMGzwn4bIS4HkQE%2FYYVXV%2Bxv6PRo3H2V5ljH%2BQNY%2BEAD&view_type=list&gz=1&t_ref_content=general&t_ref=area_recruit#seq=0
    ```
 
    
